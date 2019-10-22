@@ -1,11 +1,9 @@
 /***********************************************************************************
 	Author: Abhishek Singh
-	Problem link/description:
+	Problem link/description: https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
 ***********************************************************************************/
 
-#include <iostream>
-#include <vector>
-#include <list>
+#include <bits/stdc++.h>
 using namespace std;
 
 typedef vector <int> vi;
