@@ -1,6 +1,6 @@
 /***********************************************************************************
 	Author: Abhishek Singh
-	Problem link/description:
+	Problem link/description: https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
 ***********************************************************************************/
 
 #include <bits/stdc++.h>
